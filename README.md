@@ -39,7 +39,9 @@
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
+  - Необходимо посчитать юнит-экономику онлайн-кинотеатра
   <li>Задача №2.</li>
+  - Собрать наглядную визуализацию, где будет показано, кто, где и в каком объеме смотрит фильмы на платформе.
 </ol>
 
 <p>Как решал: краткое описание решения <p>
@@ -66,11 +68,8 @@
 
 
   <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
 
+> <a href="https://docs.google.com/document/d/13cN-tyDYZstcqd-Uo2q4OhNWbbQ36g4Wl6GTVchzUW4/edit">Ссылка на выводы</a>
 <br> 
 <!---
 Oleg179/Oleg179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
