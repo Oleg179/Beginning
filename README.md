@@ -23,7 +23,7 @@
 
 <p>Скриншот решения<p>
 
-> <a href="[https://docs.google.com/document/d/1EywyVy3XvUt5tRAaC5yf9-vC1RTnMkShdpC1wOgTxZM/edit](https://docs.google.com/spreadsheets/d/1eSe_g1kU--1-6QfJSIkjgfJ1PsbO351cDAzFL9npmH8/edit?usp=sharing)">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1eSe_g1kU--1-6QfJSIkjgfJ1PsbO351cDAzFL9npmH8/edit?usp=sharing">Ссылка на проект</a>
   
 
 <p>Выводы :<p>
