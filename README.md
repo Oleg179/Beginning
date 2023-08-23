@@ -70,6 +70,26 @@
   <p>Выводы (итоги):<p>
 
 > <a href="https://docs.google.com/document/d/13cN-tyDYZstcqd-Uo2q4OhNWbbQ36g4Wl6GTVchzUW4/edit">Ссылка на выводы</a>
+<br>
+>   <br> 
+<p> Проект 4: Визуализация продаж товаров в сравнении с прошлым годом в Power BI</p>
+<p>Что нужно было сделать:<p>
+<ol>
+-  Создание календаря
+-Форматирование дат
+-Создание иерархии
+-Расчет накопительного итога
+-Расчет значения меры за аналогичный период год назад
+-Расчет значения меры за аналогичный период месяц назад
+- Визуализация и настройка фильтров
+</ol>
+
+<p>Как решал: краткое описание решения <p>
+  
+> <a href="https://docs.google.com/document/d/1GxGQwNzA2gWKX9YazQt_6xAYZSUYF_FSsPv9udgj7-g/edit?usp=sharing">Ссылка на скриншот</a>
+
+
+ 
 <br> 
 <!---
 Oleg179/Oleg179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
