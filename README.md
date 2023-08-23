@@ -71,7 +71,7 @@
 
 > <a href="https://docs.google.com/document/d/13cN-tyDYZstcqd-Uo2q4OhNWbbQ36g4Wl6GTVchzUW4/edit">Ссылка на выводы</a>
 <br>
->   <br> 
+   <br> 
 <p> Проект 4: Визуализация продаж товаров в сравнении с прошлым годом в Power BI</p>
 <p>Что нужно было сделать:<p>
 <ol>
